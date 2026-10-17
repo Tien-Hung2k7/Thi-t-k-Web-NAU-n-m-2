@@ -1,0 +1,40 @@
+.hero-section {
+ background: url(/images/anhnen.JPG);
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ height: 80vh;
+}
+
+.custom-main-bg-color {
+    background-color: rgb(136, 7, 7);
+}
+
+.custom-main-text-color{
+    color: rgb(255, 0, 0) !important;
+}
+
+.custom-bg-body-color{
+    background-color: rgb(82, 15, 15);
+}
+
+.custom-bg-body-color3{
+    background-color: rgb(107, 4, 4);
+}
+
+
+.card-img-custom {
+ height: 200px;
+ width: 100%;
+ object-fit: cover; 
+ object-position: center;
+}
+
+.text-star {
+ color: rgb(209, 187, 59); 
+}
+
+ul.list-unstyled a {
+ color: inherit; 
+ text-decoration: none; 
+}
