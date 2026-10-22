@@ -38,3 +38,10 @@ ul.list-unstyled a {
  color: inherit; 
  text-decoration: none; 
 }
+
+.img-kh {
+ width: 100px;
+ height: 100px;
+ object-fit: cover;
+ object-position: center;
+}
